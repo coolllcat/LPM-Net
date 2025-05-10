@@ -42,22 +42,22 @@ If you find this code is useful in your research, please consider to cite:
 
 
 ### Qualitative comparisons:
-**BraTS2020:**
+**BraTS2020:**\
 <img src="./images/Result1.png" width="800"/>
 
-**IXI:**
+**IXI:**\
 <img src="./images/Result2.png" width="800"/>
 
-**RESECT:**
+**RESECT:**\
 <img src="./images/Result3.png" width="800"/>
 
-**MMWHS2017:**
+**MMWHS2017:**\
 <img src="./images/Result4.png" width="800"/>
 
-**Prostate:**
+**Prostate:**\
 <img src="./images/Result5.png" width="800"/>
 
-**HNSCC:**
+**HNSCC:**\
 <img src="./images/Result6.png" width="800"/>
 
 
