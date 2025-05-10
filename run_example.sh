@@ -1,0 +1,2 @@
+python main.py --which_model Ours --which_set 'brats2020' --mode1 't1' --mode2 't2' --target_shape '96,160,160' --batch_size 1
+python main.py --which_model Ours --which_set 'brats2020' --mode1 't1' --mode2 't2' --target_shape '96,160,160' --batch_size 1 --eval
