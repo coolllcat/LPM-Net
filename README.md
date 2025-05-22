@@ -1,5 +1,5 @@
 # LPM-Net: Lightweight pixel-level modeling network based on CNN and Mamba for 3D medical image fusion
-<a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a> [![Information Fusion](https://img.shields.io/badge/Information_Fusion-xxxx-906090.svg)](https://doi.org/10.1016/j.inffus.2025.103306)
+<a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a> [![Information Fusion](https://img.shields.io/badge/Information_Fusion-2025.103306-906090.svg)](https://doi.org/10.1016/j.inffus.2025.103306)
 
 keywords: Image fusion, Deep learning, 3D medical image, Mamba, Convolutional neural network
 
